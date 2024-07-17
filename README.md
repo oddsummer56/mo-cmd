@@ -19,7 +19,8 @@ mo-minus 10 4
 
 ## 실행 결과
 ```
-![image](https://github.com/user-attachments/assets/9ff4bcbd-03d8-42be-8455-34ac4f6a6977)
+![image](https://github.com/user-attachments/assets/7383acf1-e03f-4a25-9af7-c88a5cad34dc)
+
 ```
 ## 코드
 ```
