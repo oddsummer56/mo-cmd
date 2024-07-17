@@ -16,6 +16,11 @@ $ mo-divide <정수 입력1> <정수입력2>
 mo-minus 10 4
 2.5
 ```
+
+## 실행 결과
+```
+![image](https://github.com/user-attachments/assets/9ff4bcbd-03d8-42be-8455-34ac4f6a6977)
+```
 ## 코드
 ```
 import sys
