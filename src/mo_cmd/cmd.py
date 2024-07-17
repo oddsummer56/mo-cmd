@@ -1,10 +1,19 @@
+import sys
 from mo_plus.plus import add
 from mo_minus.minus import substract
 from mo_divide.divide import divide
 
-def call():
-    a=int(input())
-    b=int(input())
-    print('add:::',add(a,b))
-    print('substract:::',substract(a,b))
-    print('divide:::',divide(a,b))
+def plus():
+    a=int(sys.argv[1])
+    b=int(sys.argv[2])
+    print('',add(a,b))
+
+def minus():   
+    a=int(sys.argv[1])
+    b=int(sys.argv[2])
+    print('',substract(a,b))        
+
+def div():
+    a=int(sys.argv[1])
+    b=int(sys.argv[2])
+    print('',divide(a,b))    

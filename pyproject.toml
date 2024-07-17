@@ -1,7 +1,7 @@
 [project]
 name = "mo_cmd"
-version = "0.1.0"
-description = "Default template for PDM package"
+version = "0.1.3"
+description = "PDM add, sub, div calculate package"
 authors = [
     {name = "oddsummer56", email = "oddsummer56@gmail.com"},
 ]
@@ -19,7 +19,6 @@ license = {text = "MIT"}
 distribution = true
 
 [project.scripts]
-mo-plus = "mo_cmd.plus:call"
-mo-minus = "mo_cmd.minus:call"
-mo-divide = "mo_cmd.divide:call"
-
+mo-plus = "mo_cmd.cmd:plus"
+mo-minus = "mo_cmd.cmd:minus"
+mo-divide = "mo_cmd.cmd:div"
