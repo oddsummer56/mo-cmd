@@ -17,10 +17,6 @@ mo-minus 10 4
 2.5
 ```
 
-## 실행 결과
-![image](https://github.com/user-attachments/assets/1f9a638c-e34e-46c6-ad1e-cb1e03c05884)
-
-
 ## test
 ![image](https://github.com/user-attachments/assets/9ff4bcbd-03d8-42be-8455-34ac4f6a6977)
 
